@@ -6,7 +6,7 @@ Data Science Student | Brazil 🇧🇷
 ---
 
 ### About
-- 🎓 Data Science Student  
+- 🎓 Currently studying Data Science  
 - 🎂 23 years old  
 - 📊 Focused on data analysis and problem-solving  
 
@@ -15,3 +15,4 @@ Data Science Student | Brazil 🇧🇷
 ### Tech Stack
 - Python  
 - SQL  
+
